@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        OnlyFans Downloader
 // @namespace   me.jgao.onlyfans
-// @version     1.0
+// @version     1.0.0
 // @description Add buttons for downloading OnlyFans images and videos
 // @author      jgao
 // @match       https://onlyfans.com/*
