@@ -1,0 +1,43 @@
+name: J Gao
+description:
+meta_description: "jgao.me"
+
+aboutPage: true
+
+markdown: kramdown
+highlighter: rouge
+
+plugins: [jekyll-paginate]
+paginate: 20
+domain_name: 'https://jgao.me'
+google_analytics: 'UA-92899048-2'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'http://your-blog-url.example.com'
+author:         'jgao.me'
+authorTwitter:  'YourTwitterUsername'
+
+# permalink:       /:year/:title/
+permalink:       /:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
