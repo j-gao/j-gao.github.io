@@ -20,7 +20,7 @@ author:         'jgao.me'
 authorTwitter:  'YourTwitterUsername'
 
 # permalink:       /:year/:title/
-permalink:       /:title/
+permalink:       /:title
 
 defaults:
     -
