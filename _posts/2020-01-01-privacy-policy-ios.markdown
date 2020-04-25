@@ -9,4 +9,4 @@ This policy applies to the following apps:
 
 Minesweeper Game on Watch
 
-Direct Messages for Instagram
+Sugar: Messages for Instagram
