@@ -15,7 +15,7 @@ For more information on what type of information Firebase collects, please visit
 
 
 #### What is done with this information?
-Non-personally identifiable (anonymous) information is used by the developer for the sole purpose of better understanding the usage of the application. It's not shared with third parties either.
+Non-personally identifiable (anonymous) information is used by the developer for the sole purpose of better understanding the usage of the application. It's not shared with third parties in any way.
 
 #### How do I withdraw my consent?
 You may withdraw your consent at any time by deleting the application.
