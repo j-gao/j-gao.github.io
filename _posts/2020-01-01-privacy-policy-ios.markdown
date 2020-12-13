@@ -1,5 +1,5 @@
 ---
-title:  "Apple Watch Apps Privacy Policy"
+title:  "iOS App Privacy Policy"
 description: Policy
 ---
 
