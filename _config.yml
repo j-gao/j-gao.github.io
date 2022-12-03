@@ -10,7 +10,6 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 20
 domain_name: 'https://jgao.me'
-google_analytics: 'UA-92899048-2'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
